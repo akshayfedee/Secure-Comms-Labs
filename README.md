@@ -8,7 +8,7 @@ simple hash is straight forward!
 
 
 Credit card checker
-Files are : luhn.py & issuing_betwork json files
+Files are : luhn.py & issuing_network json files
 
 
 
