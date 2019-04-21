@@ -1,0 +1,25 @@
+{ "IssuingNetworks": [
+
+    { "name": "American Express", "ranges": [34, 37], "length": [15] },
+
+    { "name": "China T-Union", "ranges": [31], "length": [19] },
+
+    { "name": "Diners Club International", "ranges": [36], "length": [[14, 19]] },
+
+    { "name": "Diners Club International 2", "ranges": [[300, 305], 3095, [38, 39]], "length": [[16, 19]] },
+
+    { "name": "JCB", "ranges": [[3528, 3589]], "length": [[16, 19]] },
+
+    { "name": "Maestro", "ranges": [50, [56, 69]], "length": [[12, 19]] },
+
+    { "name": "MIR", "ranges": [[2200, 2204]], "length": [16] },
+
+    { "name": "Mastercard", "ranges": [[2221, 2720], [51, 55]], "length": [16] },
+
+    { "name": "Troy", "ranges": [[979200, 979289]], "length": [16] },
+
+    { "name": "Visa", "ranges": [4], "length": [16] },
+
+    { "name": "UATP", "ranges": [1], "length": [15] }
+
+]}
